@@ -1,0 +1,3 @@
+0 Healthy
+1 Late_Blight
+2 Early_Blight
